@@ -1,0 +1,50 @@
+.card-title {
+  text-align: center;
+  color: black;
+}
+.card-text {
+  color: black;
+  text-align: center;
+}
+.card-link2,
+.card-link1,
+.card-link3 {
+  padding-left: 160px;
+  padding-right: 160px;
+  text-align: center;
+  color: black;
+  
+}
+
+.card1,
+.card2,
+.card3 {
+  width: 35rem;
+  border: black;
+  height: 690px;
+  padding-bottom: 2.5rem;
+}
+.card-group {
+  padding-left: 100px;
+  padding-right: 50px;
+}
+.card-img-top6 {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 18rem;
+  height: 12rem;
+
+}
+.card-img-top9 {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 18rem;
+  height: 12rem;
+}
+.btn {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
